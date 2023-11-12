@@ -6,6 +6,6 @@ import {PokeApp} from "./PokeApp.jsx";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <PokeApp></PokeApp>
+    <UserApp></UserApp>
   </React.StrictMode>,
 )
